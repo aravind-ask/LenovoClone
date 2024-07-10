@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="32" viewBox="0 0 51 32">
+  <g id="lenovo-icon-server" transform="translate(255 -3887)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="51" height="32" transform="translate(-255 3887)" fill="#fff" opacity="0"/>
+    <g id="lenovo-icon-server-2" data-name="lenovo-icon-server" transform="translate(-242.478 3889.106)">
+      <path id="Fill-1" d="M42.958,8.2H40.024a.549.549,0,0,1,0-1.1h2.935a.549.549,0,0,1,0,1.1" transform="translate(-21.204 -3.815)" fill="#171717"/>
+      <path id="Fill-3" d="M42.958,26.36H40.024a.549.549,0,0,1,0-1.1h2.935a.549.549,0,1,1,0,1.1" transform="translate(-21.204 -13.564)" fill="#171717"/>
+      <path id="Fill-5" d="M42.958,45.307H40.024a.549.549,0,0,1,0-1.1h2.935a.549.549,0,1,1,0,1.1" transform="translate(-21.204 -23.738)" fill="#171717"/>
+      <path id="Fill-7" d="M6.075,7.651a.546.546,0,0,1-.549-.544V5.271a.549.549,0,1,1,1.1,0V7.106a.546.546,0,0,1-.549.544" transform="translate(-2.967 -2.532)" fill="#171717"/>
+      <path id="Fill-9" d="M10.814,7.672a.546.546,0,0,1-.549-.544V5.291a.549.549,0,0,1,1.1,0V7.129a.546.546,0,0,1-.549.544" transform="translate(-5.509 -2.553)" fill="#171717"/>
+      <path id="Fill-11" d="M16.339,7.672a.546.546,0,0,1-.549-.543V5.291a.549.549,0,0,1,1.1,0V7.129a.546.546,0,0,1-.549.544" transform="translate(-8.478 -2.553)" fill="#171717"/>
+      <path id="Fill-13" d="M21.076,7.672a.546.546,0,0,1-.549-.544V5.291a.549.549,0,0,1,1.1,0V7.129a.546.546,0,0,1-.549.544" transform="translate(-11.022 -2.553)" fill="#171717"/>
+      <path id="Fill-15" d="M6.076,26.618a.546.546,0,0,1-.549-.544V24.239a.549.549,0,0,1,1.1,0v1.837a.546.546,0,0,1-.549.544" transform="translate(-2.967 -12.726)" fill="#171717"/>
+      <path id="Fill-17" d="M10.814,26.618a.546.546,0,0,1-.549-.544V24.239a.549.549,0,0,1,1.1,0v1.837a.546.546,0,0,1-.549.544" transform="translate(-5.509 -12.726)" fill="#171717"/>
+      <path id="Fill-19" d="M16.339,26.618a.546.546,0,0,1-.549-.544V24.239a.549.549,0,0,1,1.1,0v1.837a.546.546,0,0,1-.549.544" transform="translate(-8.478 -12.726)" fill="#171717"/>
+      <path id="Fill-21" d="M21.076,26.618a.546.546,0,0,1-.549-.544V24.239a.549.549,0,0,1,1.1,0v1.837a.546.546,0,0,1-.549.544" transform="translate(-11.022 -12.726)" fill="#171717"/>
+      <path id="Fill-23" d="M6.076,44.777a.546.546,0,0,1-.549-.544V42.4a.549.549,0,0,1,1.1,0V44.23a.546.546,0,0,1-.549.544" transform="translate(-2.967 -22.476)" fill="#171717"/>
+      <path id="Fill-25" d="M10.814,44.777a.546.546,0,0,1-.549-.544V42.4a.549.549,0,0,1,1.1,0V44.23a.546.546,0,0,1-.549.544" transform="translate(-5.509 -22.476)" fill="#171717"/>
+      <path id="Fill-27" d="M16.339,44.777a.546.546,0,0,1-.549-.544V42.4a.549.549,0,0,1,1.1,0V44.23a.546.546,0,0,1-.549.544" transform="translate(-8.478 -22.476)" fill="#171717"/>
+      <path id="Fill-29" d="M21.076,44.777a.546.546,0,0,1-.549-.544V42.4a.549.549,0,0,1,1.1,0V44.23a.546.546,0,0,1-.549.544" transform="translate(-11.022 -22.476)" fill="#171717"/>
+      <g id="Fill-31-Clipped" transform="translate(21.935 7.312)">
+        <path id="Fill-31" d="M47.368,17.248h1.1V15.789h-1.1Z" transform="translate(-47.368 -15.789)" fill="#171717"/>
+      </g>
+      <g id="Fill-33-Clipped" transform="translate(2.925 7.312)">
+        <path id="Fill-33" d="M6.316,17.248h1.1V15.789h-1.1Z" transform="translate(-6.316 -15.789)" fill="#171717"/>
+      </g>
+      <g id="Fill-34-Clipped" transform="translate(2.925 16.086)">
+        <path id="Fill-34" d="M6.316,36.2h1.1V34.737h-1.1Z" transform="translate(-6.316 -34.737)" fill="#171717"/>
+      </g>
+      <g id="Fill-35-Clipped" transform="translate(21.935 16.086)">
+        <path id="Fill-35" d="M47.368,36.2h1.1V34.737h-1.1Z" transform="translate(-47.368 -34.737)" fill="#171717"/>
+      </g>
+      <g id="Fill-36-Clipped" transform="translate(0 0)">
+        <path id="Fill-36" d="M1.1,6.219h23.75V1.1H1.1ZM25.4,7.312H.553A.551.551,0,0,1,0,6.767V.549A.551.551,0,0,1,.553,0H25.4a.551.551,0,0,1,.553.549V6.767a.551.551,0,0,1-.553.549Z" transform="translate(0 0)" fill="#171717"/>
+      </g>
+      <g id="Fill-37-Clipped" transform="translate(0 17.178)">
+        <path id="Fill-37" d="M1.1,43.314h23.75V38.2H1.1Zm24.3,1.1H.553A.551.551,0,0,1,0,43.867V37.648A.549.549,0,0,1,.553,37.1H25.4a.549.549,0,0,1,.553.549v6.217a.551.551,0,0,1-.553.549Z" transform="translate(0 -37.1)" fill="#171717"/>
+      </g>
+      <g id="Fill-38-Clipped" transform="translate(0 8.768)">
+        <path id="Fill-38" d="M1.1,25.159h23.75V20.043H1.1Zm24.3,1.1H.553A.551.551,0,0,1,0,25.707V19.488a.549.549,0,0,1,.553-.549H25.4a.549.549,0,0,1,.553.549v6.219a.551.551,0,0,1-.553.549Z" transform="translate(0 -18.939)" fill="#171717"/>
+      </g>
+      <g id="Fill-39-Clipped" transform="translate(2.925 24.498)">
+        <path id="Fill-39" d="M25.321,52.9v2.129H7.417V52.9h-1.1v2.712a.564.564,0,0,0,.551.577H25.872a.564.564,0,0,0,.551-.581V52.9Z" transform="translate(-6.316 -52.9)" fill="#171717"/>
+      </g>
+    </g>
+  </g>
+</svg>

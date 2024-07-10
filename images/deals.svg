@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="32" viewBox="0 0 51 32">
+  <g id="lenovo-icon-sale" transform="translate(311 -3887)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="51" height="32" transform="translate(-311 3887)" fill="#fff" opacity="0"/>
+    <g id="icon-sale" transform="translate(-302.182 3888.515)">
+      <path id="Path_20862" data-name="Path 20862" d="M90.246,50.292a1.221,1.221,0,0,0,0-1.726,1.283,1.283,0,0,0-.881-.368,1.2,1.2,0,0,0-.881.368,1.221,1.221,0,0,0,0,1.726,1.262,1.262,0,0,0,1.763,0Z" transform="translate(-65.94 -43.436)" fill="none"/>
+      <path id="Path_20863" data-name="Path 20863" d="M33.3,53.946,44.423,65.07,58.8,50.617,59.129,39.2l-11.417.326Zm12.953,6.069L38.533,52.3l.988-.988,7.72,7.722Zm2.708-2.708L41.241,49.6l.988-.988,7.721,7.718ZM51.669,54.6l-7.72-7.719.991-.989,7.72,7.721Zm1.025-12.77a2.651,2.651,0,1,1-.8,1.9,2.593,2.593,0,0,1,.8-1.9Z" transform="translate(-31.172 -37.725)" fill="none"/>
+      <path id="Path_20864" data-name="Path 20864" d="M56.568,35.557a1.139,1.139,0,0,0-.916-.368L43.9,35.515a1.2,1.2,0,0,0-.841.368L27.5,51.406,40.714,64.621,56.231,49.064a1.262,1.262,0,0,0,.368-.841l.326-11.75a1.1,1.1,0,0,0-.365-.916Zm-1.431,12.52L40.714,62.5,29.623,51.406,44.046,36.988l11.418-.326Z" transform="translate(-27.5 -35.185)" fill="#171717"/>
+      <path id="Path_20865" data-name="Path 20865" d="M86.815,49.544a2.76,2.76,0,1,0-1.909-.807A2.583,2.583,0,0,0,86.815,49.544Zm-.844-3.561a1.283,1.283,0,0,1,.881-.368,1.2,1.2,0,0,1,.881.368,1.221,1.221,0,1,1-1.726,1.726,1.188,1.188,0,0,1-.037-1.726Z" transform="translate(-63.406 -40.836)" fill="#171717"/>
+      <rect id="Rectangle_1543" data-name="Rectangle 1543" width="1.395" height="10.976" transform="translate(12.744 9.128) rotate(-45)" fill="#171717"/>
+      <rect id="Rectangle_1544" data-name="Rectangle 1544" width="1.395" height="10.976" transform="translate(10.059 11.857) rotate(-45)" fill="#171717"/>
+      <rect id="Rectangle_1545" data-name="Rectangle 1545" width="1.395" height="10.976" transform="translate(7.349 14.561) rotate(-45)" fill="#171717"/>
+    </g>
+  </g>
+</svg>
